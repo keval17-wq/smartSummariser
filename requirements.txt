@@ -1,1 +1,8 @@
 streamlit
+openai
+transformers
+torch
+numpy
+scikit-learn
+rouge-score
+pandas
