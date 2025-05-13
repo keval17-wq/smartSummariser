@@ -1,0 +1,18 @@
+Extracted Top Sentences (Scenario 5):
+Friendly staff, but the service was painfully slow
+Efficient takeout service, but dine-in is chaotic
+I loved the outdoor seating area
+Drinks were watered down and not worth the price
+The pasta was undercooked, but the sauce was fantastic
+Great menu options for vegetarians
+Portions were small but tasted good
+Nice ambiance, but the music was too loud
+I highly recommend the tiramisu
+Overpriced for the quality of food
+Delicious desserts
+Wouldn't visit again
+
+
+Final Factual Summary:
+Summary generation failed.
+

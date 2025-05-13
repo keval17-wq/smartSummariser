@@ -12,7 +12,7 @@ SUMMARY_OUTPUT_EMB = "scenario_2_summary.txt"
 
 
 # Initialize OpenAI client
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="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")
 
 # Attempt to import Hugging Face pipeline for optional sentiment
 try:

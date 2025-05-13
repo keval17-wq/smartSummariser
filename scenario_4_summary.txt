@@ -1,0 +1,6 @@
+Extractive Draft Sentences:
+Friendly staff, but the service was painfully slow. Efficient takeout service, but dine-in is chaotic. Drinks were watered down and not worth the price. Great menu options for vegetarians. I loved the outdoor seating area.
+
+Final Abstractive Summary:
+Summary generation failed.
+

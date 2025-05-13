@@ -1,0 +1,5 @@
+Label,Cosine Similarity,ROUGE-1 F1,ROUGE-2 F1,ROUGE-L F1
+Scene 4 vs Source,0.0,0.0,0.0,0
+Scene 5 vs Source,0.0,0.0,0.0,0
+Scene 4 vs Benchmark,0.0,0.0,0.0,0
+Scene 5 vs Benchmark,0.0,0.0,0.0,0
